@@ -18,3 +18,8 @@
 .inner:hover img{
     transform: scale(1.5);
 }
+.navbar{
+    opacity:0.8;
+    border-bottom:#f5f7f8 3px solid;
+
+}
