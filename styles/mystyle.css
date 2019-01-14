@@ -29,3 +29,7 @@ h2{
 h3{
     font-family: 'Roboto Slab', serif;
 }
+
+#home-section{
+    background: url( ../images/home1.jpg);
+}
