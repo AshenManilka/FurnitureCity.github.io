@@ -1,0 +1,36 @@
+body{
+    background: #04202e;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+#home-section{
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 800px;
+    background-color: #04202e;
+}
+
+
+
+
+
+
+
+
+
+h1{
+   
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+
+}
+h2{
+   
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 0.5px;
+
+}
