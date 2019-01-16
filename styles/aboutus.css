@@ -1,9 +1,9 @@
 p{
    
    /* font-family: 'Roboto Condensed', sans-serif;*/
-    /* font-family: 'Roboto Slab', serif;*/
+    font-family: 'Roboto Slab', serif;
     /*font-family: 'Roboto Slab', serif;*/
-    font-family: 'Lobster', cursive;
+    /*font-family: 'Lobster', cursive;*/
 }
 #about-us-section #image1{
     border-radius: 10%

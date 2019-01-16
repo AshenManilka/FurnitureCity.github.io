@@ -60,21 +60,21 @@
         background-image:url('../images/home5.jpg');
     }
     60%{
-        background-image:url('../images/home1.jpg');
+        background-image:url('../images/home6.jpg');
 
     }
     60.1%{
-        background-image:url('../images/home2.jpg');
+        background-image:url('../images/home7.jpg');
     }
     80%{
-        background-image:url('../images/home3.jpg');
+        background-image:url('../images/home8.jpg');
 
     }
     80.1%{
-        background-image:url('../images/home4.jpg');
+        background-image:url('../images/home9.jpg');
     }
     100%{
-        background-image:url('../images/home5.jpg');
+        background-image:url('../images/home10.jpg');
 
     }
 }
